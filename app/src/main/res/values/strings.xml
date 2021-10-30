@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JPGtoPNG</string>
+    <string name="convert">Convert to PNG</string>
+    <string name="cancel_dialog">Cancel dialog</string>
+    <string name="in_progress">Conversion in progress</string>
+    <string name="cancel">Cancel</string>
+    <string name="press_to_chose_jpg">Press to chose JPG</string>
 </resources>
